@@ -1,1 +1,1 @@
-pip install sklearn
+pip install -r requirements.txt
